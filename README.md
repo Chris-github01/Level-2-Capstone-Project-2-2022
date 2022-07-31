@@ -6,7 +6,7 @@ The purpose of the project is to create a detailed Exploratory Data Analysis (ED
 
 # *2. The Data*
 
-The data that's analysed is for an [Automobile Data Set](). The following data is given in the data set:
+The data that's analysed is for an [Automobile Data Set](https://github.com/Chris-github01/Level-2-Capstone-Project-2-2022/blob/main/automobile.csv). The following data is given in the data set:
   * symbolling
   * normalized-losses
   * make
