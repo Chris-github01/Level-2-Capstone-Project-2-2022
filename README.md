@@ -105,4 +105,4 @@ The data that's analysed is for an [Automobile Data Set](https://github.com/Chri
   
 # *4. Results*
 
-After analysing the data, a detailed report with [results]() is made.
+After analysing the data, a detailed report with [results](https://github.com/Chris-github01/Level-2-Capstone-Project-2-2022/blob/main/EDA.pdf) is made.
