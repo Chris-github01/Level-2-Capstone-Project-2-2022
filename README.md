@@ -2,7 +2,7 @@
 
 # *1. The Purpose*
 
-The purpose of the project is to create a detailed [Exploratory Data Analysis]() (EDA) of a specific data set and present the findings by means of tables and visualisations
+The purpose of the project is to create a detailed [Exploratory Data Analysis](https://github.com/Chris-github01/Level-2-Capstone-Project-2-2022/blob/main/automobile.ipynb) (EDA) of a specific data set and present the findings by means of tables and visualisations
 
 # *2. The Data*
 
