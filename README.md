@@ -2,11 +2,11 @@
 
 # *1. The Purpose*
 
-The purpose of the project is to create a detailed [Exploratory Data Analysis](https://github.com/Chris-github01/Level-2-Capstone-Project-2-2022/blob/main/automobile.ipynb) (EDA) of a specific data set and present the findings by means of tables and visualisations
+The purpose of the project is to create a detailed Exploratory Data Analysis (EDA) of a specific data set and present the findings by means of tables and visualisations
 
 # *2. The Data*
 
-The data that's analysed is for an Automobile Data Set. The following data is given in the data set:
+The data that's analysed is for an [Automobile Data Set](). The following data is given in the data set:
   * symbolling
   * normalized-losses
   * make
@@ -51,7 +51,7 @@ The data that's analysed is for an Automobile Data Set. The following data is gi
  
  ## 3.4 Data stories and visualisations
  
- In this section of the EDA, we extract stories and assumptions based on visualizations of the data set. The analysis is broken down into the following sections:
+ In this section of the [Exploratory Data Analysis](https://github.com/Chris-github01/Level-2-Capstone-Project-2-2022/blob/main/automobile.ipynb), we extract stories and assumptions based on visualizations of the data set. The analysis is broken down into the following sections:
   * Aspiration analysis
   * Make analysis
   * Price analysis
@@ -104,3 +104,5 @@ The data that's analysed is for an Automobile Data Set. The following data is gi
   In this section we will check the frequencies of the engine-types as well as number-of-doors.
   
 # *4. Results*
+
+After analysing the data, a detailed report with [results]() is made.
